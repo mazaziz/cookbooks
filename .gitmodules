@@ -1,0 +1,90 @@
+[submodule "community/zend"]
+	path = community/zend
+	url = https://github.com/zircote/chef-zend.git
+[submodule "opscode/apache2"]
+	path = opscode/apache2
+	url = https://github.com/opscode-cookbooks/apache2.git
+[submodule "opscode/apt"]
+	path = opscode/apt
+	url = https://github.com/opscode-cookbooks/apt.git
+[submodule "opscode/build-essential"]
+	path = opscode/build-essential
+	url = https://github.com/opscode-cookbooks/build-essential.git
+[submodule "opscode/cron"]
+	path = opscode/cron
+	url = https://github.com/opscode-cookbooks/cron.git
+[submodule "opscode/daemontools"]
+	path = opscode/daemontools
+	url = https://github.com/opscode-cookbooks/daemontools.git
+[submodule "opscode/database"]
+	path = opscode/database
+	url = https://github.com/opscode-cookbooks/database.git
+[submodule "opscode/djbdns"]
+	path = opscode/djbdns
+	url = https://github.com/opscode-cookbooks/djbdns.git
+[submodule "opscode/emacs"]
+	path = opscode/emacs
+	url = https://github.com/opscode-cookbooks/emacs.git
+[submodule "opscode/freebsd"]
+	path = opscode/freebsd
+	url = https://github.com/opscode-cookbooks/freebsd.git
+[submodule "opscode/git"]
+	path = opscode/git
+	url = https://github.com/opscode-cookbooks/git.git
+[submodule "opscode/gnu_parallel"]
+	path = opscode/gnu_parallel
+	url = https://github.com/opscode-cookbooks/gnu_parallel.git
+[submodule "opscode/memcached"]
+	path = opscode/memcached
+	url = https://github.com/opscode-cookbooks/memcached.git
+[submodule "opscode/mysql"]
+	path = opscode/mysql
+	url = https://github.com/opscode-cookbooks/mysql.git
+[submodule "opscode/nginx"]
+	path = opscode/nginx
+	url = https://github.com/opscode-cookbooks/nginx.git
+[submodule "opscode/ntp"]
+	path = opscode/ntp
+	url = https://github.com/opscode-cookbooks/ntp.git
+[submodule "opscode/ohai"]
+	path = opscode/ohai
+	url = https://github.com/opscode-cookbooks/ohai.git
+[submodule "opscode/openssh"]
+	path = opscode/openssh
+	url = https://github.com/opscode-cookbooks/openssh.git
+[submodule "opscode/openssl"]
+	path = opscode/openssl
+	url = https://github.com/opscode-cookbooks/openssl.git
+[submodule "opscode/openvpn"]
+	path = opscode/openvpn
+	url = https://github.com/opscode-cookbooks/openvpn.git
+[submodule "opscode/perl"]
+	path = opscode/perl
+	url = https://github.com/opscode-cookbooks/perl.git
+[submodule "opscode/php"]
+	path = opscode/php
+	url = https://github.com/opscode-cookbooks/php.git
+[submodule "opscode/postgresql"]
+	path = opscode/postgresql
+	url = https://github.com/opscode-cookbooks/postgresql.git
+[submodule "opscode/resolver"]
+	path = opscode/resolver
+	url = https://github.com/opscode-cookbooks/resolver.git
+[submodule "opscode/rsync"]
+	path = opscode/rsync
+	url = https://github.com/opscode-cookbooks/rsync.git
+[submodule "opscode/samba"]
+	path = opscode/samba
+	url = https://github.com/opscode-cookbooks/samba.git
+[submodule "opscode/sqlite"]
+	path = opscode/sqlite
+	url = https://github.com/opscode-cookbooks/sqlite.git
+[submodule "opscode/ucspi-tcp"]
+	path = opscode/ucspi-tcp
+	url = https://github.com/opscode-cookbooks/ucspi-tcp.git
+[submodule "opscode/varnish"]
+	path = opscode/varnish
+	url = https://github.com/opscode-cookbooks/varnish.git
+[submodule "opscode/xml"]
+	path = opscode/xml
+	url = https://github.com/opscode-cookbooks/xml.git
